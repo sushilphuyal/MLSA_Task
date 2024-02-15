@@ -31,16 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Dark side of bug hunting",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "explains about dark side of bug hunting impacting on mental health",
+    url: "https://1337mickey.medium.com/the-dark-side-of-bug-bounty-programs-how-childrens-mental-health-is-being-spoiled-139297e95dd",
   },
   {
-    title: "Web Development for Beginners",
+    title: "7 mistakes of a bug hunter",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "tricks to find security bugs and where the hackers miss out",
+    url: "https://infosecwriteups.com/7-mistakes-by-bug-hunters-as-a-beginner-7fda55c33f3a",
   },
   {
     title: "My Resume Site",
