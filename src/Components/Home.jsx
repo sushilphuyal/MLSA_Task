@@ -6,7 +6,7 @@
  */
 
 import React from "react";
-import arrowSvg from "../images/back.jpg";
+import arrowSvg from "../images/hancy.jpg";
 import PropTypes from "prop-types";
 
 /**
@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/back.jpg";
+import image from "../images/hancy.jpg";
 
 const imageAltText = "Sushil Phuyal - with the dark mode photo which is artistic";
 
